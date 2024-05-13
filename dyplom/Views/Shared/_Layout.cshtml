@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - dyplom</title>
+    
+    <link rel="stylesheet" href="~/dyplom.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="title-site"> <img class="logo-img" src="~/images/logo.jpeg" alt=""> Система надання адміністративних послуг у період воєнного стану</div>
+    <!-- header section starts -->
+    <header class="header">
+        <section class="flex">
+            <div id="menu-btn" class="fas fa-bars-staggered"></div>
+            <a href="home.html" class="html logo"> <i class="fas fa-briefcase"></i>DocHelp</a>
+            <div class="button-center">
+                <nav class="navbar">
+                    <a href="home.html">Головна</a>
+                    <a href="about.html">Про нас</a>
+                    <a href="news.html">Новини</a>
+                    <a asp-controller="Home"asp-action="services">Послуги</a>
+                    <a href="contact.html">Зворотній зв'язок</a>
+                </nav>
+            </div>
+            <div class="block-login">
+                @{
+                    bool isLoggedIn = ViewBag.IsLoggedIn ?? false;
+                    if (!isLoggedIn)
+                    {
+                        <a asp-controller="Users" asp-action="Create" class="btn" style="margin-top: 0; color: var(--white);">Увійти</a>
+                    }
+                }
+            </div>
+            
+        </section>
+       
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

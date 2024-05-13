@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dyplom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\dyplom.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\7330661.png",
+      "PackagePath": "staticwebassets\\images\\7330661.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\about.jpeg",
+      "PackagePath": "staticwebassets\\images\\about.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\abouticon1.png",
+      "PackagePath": "staticwebassets\\images\\abouticon1.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\abouticon2.png",
+      "PackagePath": "staticwebassets\\images\\abouticon2.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\abouticon3.png",
+      "PackagePath": "staticwebassets\\images\\abouticon3.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\abouticon4.png",
+      "PackagePath": "staticwebassets\\images\\abouticon4.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\aboutus.jpeg",
+      "PackagePath": "staticwebassets\\images\\aboutus.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\account.jpeg",
+      "PackagePath": "staticwebassets\\images\\account.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\bgregform.jpeg",
+      "PackagePath": "staticwebassets\\images\\bgregform.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\family.jpeg",
+      "PackagePath": "staticwebassets\\images\\family.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\icon1.jpeg",
+      "PackagePath": "staticwebassets\\images\\icon1.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\icon2.jpeg",
+      "PackagePath": "staticwebassets\\images\\icon2.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\icon3.jpeg",
+      "PackagePath": "staticwebassets\\images\\icon3.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\imagemain.jpeg",
+      "PackagePath": "staticwebassets\\images\\imagemain.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\immigrants.jpeg",
+      "PackagePath": "staticwebassets\\images\\immigrants.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\logo.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\military.jpeg",
+      "PackagePath": "staticwebassets\\images\\military.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\news1.png",
+      "PackagePath": "staticwebassets\\images\\news1.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\news2.jpeg",
+      "PackagePath": "staticwebassets\\images\\news2.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\news3.jpeg",
+      "PackagePath": "staticwebassets\\images\\news3.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\news4.jpeg",
+      "PackagePath": "staticwebassets\\images\\news4.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\pict1.jpeg",
+      "PackagePath": "staticwebassets\\images\\pict1.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\pict2.jpeg",
+      "PackagePath": "staticwebassets\\images\\pict2.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\pict3.jpeg",
+      "PackagePath": "staticwebassets\\images\\pict3.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\pict4.jpeg",
+      "PackagePath": "staticwebassets\\images\\pict4.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\pict5.jpeg",
+      "PackagePath": "staticwebassets\\images\\pict5.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\pict6.jpeg",
+      "PackagePath": "staticwebassets\\images\\pict6.jpeg"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\images\\word.png",
+      "PackagePath": "staticwebassets\\images\\word.png"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\js\\curs.js",
+      "PackagePath": "staticwebassets\\js\\curs.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\js\\news.js",
+      "PackagePath": "staticwebassets\\js\\news.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\js\\tempCodeRunnerFile.js",
+      "PackagePath": "staticwebassets\\js\\tempCodeRunnerFile.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\project_bookstore\\dyplom\\dyplom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dyplom.props",
+      "PackagePath": "build\\dyplom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.dyplom.props",
+      "PackagePath": "buildMultiTargeting\\dyplom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.dyplom.props",
+      "PackagePath": "buildTransitive\\dyplom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.dyplom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
